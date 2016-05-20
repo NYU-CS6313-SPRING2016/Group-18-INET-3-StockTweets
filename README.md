@@ -22,7 +22,7 @@ For the server, please visit [GitHub](https://github.com/jckhang/stockTwits_serv
 
 **Demo**: https://stockdashboard.herokuapp.com/
 
-**Document**: https://github.com/jckhang/stockTwits_client/blob/master/public/SP100StockInsight.pdf ...
+**Document**: https://github.com/jckhang/stockTwits_client/blob/master/public/SP100StockInsight.pdf
 
 ##Install instructions
 ###Requirements

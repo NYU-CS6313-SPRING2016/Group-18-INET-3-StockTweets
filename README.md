@@ -9,9 +9,9 @@ Even though Stocktwits makes sharing trading tips easy, the whims of the market 
 Our visualization appeals to traders who need overall market consensus to be available quickly, but it is accessible enough even for a market newcomer unfamiliar with the mechanisms of finance.
 
 It provides answers to questions like: 
-Which stocks are being talked about? 
-What equity does the market suggest I buy or sell?
-How does the market feel about a specific company?
+- Which stocks are being talked about? 
+- What equity does the market suggest I buy or sell?
+- How does the market feel about a specific company?
 
 
 For most recent update of the dashboard, please visit [GitHub](https://github.com/jckhang/stockTwits_client) or [Heroku](https://stockdashboard.herokuapp.com/).

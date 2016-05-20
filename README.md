@@ -1,10 +1,18 @@
 # Group-18-StockTweets
 ![alt text](https://raw.githubusercontent.com/jckhang/stockTwits_client/master/public/screenshot.png "Screenshot")
-**Authors**: Elizabeth Arlene Syso ([github-user-name](https://github.com/elizabethsyso)), Yuxiang Zhang([github-user-name](https://github.com/jckhang)), Bonan Yuan([github-user-name](https://github.com/bonanyuan)), Tianqi Jiang ([github-user-name](https://github.com/TianqiJiang)).
+**Authors**: Elizabeth Arlene Syso ([elizabethsyso](https://github.com/elizabethsyso)), Yuxiang Zhang([jckhang](https://github.com/jckhang)), Bonan Yuan([bonanyuan](https://github.com/bonanyuan)), Tianqi Jiang ([TianqiJiang](https://github.com/TianqiJiang)).
 
 ## Descriptions
 
-The stock market is unpredictable and there are many differing opinions about which stocks will do well in the future. Meanwhile, visualizations of market opinions are very rare. But, traders need a quick way to access the opinions of their peers without having to search through websites like Stocktwits for it. Also, market newcomers who want to buy stock but are not sure which companies are popular or trending need the wisdom of current traders as well. Our solution is to build a dashboard to get an insight into stock market through Stocktwits in a simple way.
+Even though Stocktwits makes sharing trading tips easy, the whims of the market remain unpredictable. Stay ahead of the trend with Stock Insights.
+
+Our visualization appeals to traders who need overall market consensus to be available quickly, but it is accessible enough even for a market newcomer unfamiliar with the mechanisms of finance.
+
+It provides answers to questions like: 
+- Which stocks are being talked about? 
+- What equity does the market suggest I buy or sell?
+- How does the market feel about a specific company?
+
 
 For most recent update of the dashboard, please visit [GitHub](https://github.com/jckhang/stockTwits_client) or [Heroku](https://stockdashboard.herokuapp.com/).
 
@@ -12,7 +20,7 @@ For the server, please visit [GitHub](https://github.com/jckhang/stockTwits_serv
 
 **Video**: http://link-to-video.com
 
-**Demo**: http://link-to-demo.com
+**Demo**: https://stockdashboard.herokuapp.com/
 
 **Document**: http://link-to-finalreport.com ...
 

@@ -12,7 +12,7 @@ For the server, please visit [GitHub](https://github.com/jckhang/stockTwits_serv
 
 **Video**: http://link-to-video.com
 
-**Demo**: http://link-to-demo.com
+**Demo**: https://stockdashboard.herokuapp.com/
 
 **Document**: http://link-to-finalreport.com ...
 

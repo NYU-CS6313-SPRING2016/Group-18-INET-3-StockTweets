@@ -18,7 +18,7 @@ For most recent update of the dashboard, please visit [GitHub](https://github.co
 
 For the server, please visit [GitHub](https://github.com/jckhang/stockTwits_server) or [Heroku](http://stocktwitsbackend.herokuapp.com/).
 
-**Video**: http://link-to-video.com
+**Video**: https://vimeo.com/167384885
 
 **Demo**: https://stockdashboard.herokuapp.com/
 

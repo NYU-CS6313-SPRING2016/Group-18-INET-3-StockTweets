@@ -1,6 +1,6 @@
 # Group-18-StockTweets
 ![alt text](https://raw.githubusercontent.com/jckhang/stockTwits_client/master/public/screenshot.png "Screenshot")
-**Authors**: Elizabeth Arlene Syso ([github-user-name](https://github.com/elizabethsyso)), Yuxiang Zhang([github-user-name](https://github.com/jckhang)), Bonan Yuan([github-user-name](https://github.com/bonanyuan)), Tianqi Jiang ([github-user-name](https://github.com/TianqiJiang)).
+**Authors**: Elizabeth Arlene Syso ([elizabethsyso](https://github.com/elizabethsyso)), Yuxiang Zhang([jckhang](https://github.com/jckhang)), Bonan Yuan([bonanyuan](https://github.com/bonanyuan)), Tianqi Jiang ([TianqiJiang](https://github.com/TianqiJiang)).
 
 ## Descriptions
 
